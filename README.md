@@ -4,6 +4,10 @@ An interactive web-based drum kit that lets you play percussion sounds by clicki
 
 ![Drum Kit Preview](./images/drum-kit-preview.png)
 
+## Demo
+
+Check out the live demo : https://omryuo.github.io/Drum-Kit/
+
 ## Features
 
 - Play drum sounds with mouse clicks or keyboard presses
@@ -15,10 +19,6 @@ An interactive web-based drum kit that lets you play percussion sounds by clicki
   - Snare drum
   - Crash cymbal
   - Kick bass drum
-
-## Demo
-
-Check out the live demo : https://omryuo.github.io/Drum-Kit/
 
 ## Technologies Used
 
