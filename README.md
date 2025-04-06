@@ -123,7 +123,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgements
 
 - Font families: Arvo, Caveat, Kings, Libre Baskerville, Princess Sofia
-- Original project idea inspired by web development course from udemy.
+- Original project idea inspired by Dr.Angela Yu's Full stack Web development course from udemy.
 
 ## Contact
 
