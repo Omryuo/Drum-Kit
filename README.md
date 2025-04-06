@@ -2,7 +2,7 @@
 
 An interactive web-based drum kit that lets you play percussion sounds by clicking buttons or pressing keyboard keys. Create your own beats with this simple and fun instrument!
 
-
+![Drum Kit Preview](./images/drum-kit-preview.png)
 
 ## Features
 
@@ -74,7 +74,7 @@ drum-kit/
 │   ├── crash.mp3
 │   └── kick-bass.mp3
 │
-└── images/             # Image assets
+└── images/    # Image assets
 ├── bg.jpeg
 ├── tom1.png
 ├── tom2.png
@@ -82,7 +82,8 @@ drum-kit/
 ├── tom4.png
 ├── snare.png
 ├── crash.png
-└── kick.png
+├── kick.png    
+└── drum-kit-preview.png
   </code>
 </pre>  
 
