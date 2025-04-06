@@ -18,7 +18,7 @@ An interactive web-based drum kit that lets you play percussion sounds by clicki
 
 ## Demo
 
-Check out the live demo : 
+Check out the live demo : https://omryuo.github.io/Drum-Kit/
 
 ## Technologies Used
 
