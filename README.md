@@ -110,12 +110,6 @@ This project includes several optimizations for better performance:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -124,12 +118,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Font families: Arvo, Caveat, Kings, Libre Baskerville, Princess Sofia
 - Original project idea inspired by Dr.Angela Yu's Full stack Web development course from udemy.
-
-## Contact
-
-Your Name - [juug22btech52467@gmail.com](mailto:juug22btech52467@gmail.com)
-
-Project Link: [https://github.com/Omryuo/drum-kit](https://github.com/Omryuo/drum-kit)
 
 ---
 
